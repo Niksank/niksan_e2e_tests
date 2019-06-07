@@ -1,0 +1,43 @@
+10:24:35.606 INFO [GridLauncherV3.parse] - Selenium server version: 3.141.59, revision: e82be7d358
+10:24:35.731 INFO [GridLauncherV3.lambda$buildLaunchers$3] - Launching a standalone Selenium Server on port 4444
+2019-06-06 10:24:35.922:INFO::main: Logging initialized @868ms to org.seleniumhq.jetty9.util.log.StdErrLog
+10:24:36.465 INFO [WebDriverServlet.<init>] - Initialising WebDriverServlet
+10:24:36.695 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
+10:24:38.217 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "args": [
+      "Mozilla\u002f5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit\u002f534.46\n            (KHTML, like Gecko) Version\u002f5.1 Mobile\u002f9A334 Safari\u002f7534.48.3",
+      "--window-size=640,1136"
+    ]
+  },
+  "javascriptEnabled": true,
+  "name": "Guinea Pig"
+}
+10:24:38.217 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "args": [
+      "Mozilla\u002f5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit\u002f534.46\n            (KHTML, like Gecko) Version\u002f5.1 Mobile\u002f9A334 Safari\u002f7534.48.3",
+      "--window-size=640,1136"
+    ]
+  },
+  "javascriptEnabled": true,
+  "name": "Github"
+}
+10:24:38.220 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+10:24:38.220 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+StSarttairntgi nCgh rCohmreoDmreiDvreirv e2r. 426..4662.86421814 1(13 3(2343f244cf84bce89bfef92fff720fa7005aa0350ae3b0ce7b2cf7f2b013fe1fab7011e3)e 1oan7 1peo)r to n2 8p0o4r3t
+Only  l3o3c2a3l
+O nlcyo nlnoeccatli ocnosn naercet iaolnlso waerde. 
+Pleaaslel owperdo.t
+Pleecats ep oprrtost eucste dp obryt sC hursoemde Dbryi vCehrr oamnedD rrievleart eadn dt ersetl aftreadm etweosrtk sf to prreavmeweornkts  atcoc epsrse vbeyn tm aalcicceisosu sb yc omdael.i
+cious code.
+10:24:47.664 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+10:24:47.664 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+10:24:48.416 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 9d4d575b717746fe372c938e057e5e28 (org.openqa.selenium.chrome.ChromeDriverService)
+10:24:48.417 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session fcfc62e7817e188a7bca99c831571a2e (org.openqa.selenium.chrome.ChromeDriverService)
+10:24:50.954 INFO [ActiveSessions$1.onStop] - Removing session fcfc62e7817e188a7bca99c831571a2e (org.openqa.selenium.chrome.ChromeDriverService)
+10:24:51.887 INFO [ActiveSessions$1.onStop] - Removing session 9d4d575b717746fe372c938e057e5e28 (org.openqa.selenium.chrome.ChromeDriverService)
